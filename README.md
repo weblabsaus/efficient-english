@@ -1,1 +1,3 @@
-An efficient language called "Zetanese" *Translation: NeoEng+*
+**An efficient language called "Zetanese"**
+<br>
+*Translation: NeoEng+*
